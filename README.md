@@ -1,2 +1,2 @@
-# WAKE UP BRAIN :coffee:
+# WAKE UP BRAIN
 
