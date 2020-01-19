@@ -14,10 +14,4 @@ But in this case we referring a **code kata**, what is an exercise in programmin
 
 ## TECHNOLOGY STACK
 
--`PHP`
--`PHPunit`
--`Javascript`
--`JEST`
-
-
-![](https://img.shields.io/static/v1?label=<"STATUS">&message=<"IN PROGRESS">&color=<"BRIGHTGREEN">)
+`PHP` | `PHPunit` | `Javascript` | `JEST`
