@@ -14,7 +14,7 @@ Go through the setup instructions for Javascript to install the necessary
 dependencies:
 
 >[NodeJS](https://nodejs.org/en/download/)
-[JestJS](https://jestjs.io/docs/en/getting-started.html)
+>[JestJS](https://jestjs.io/docs/en/getting-started.html)
 
 ## Requirements
 
