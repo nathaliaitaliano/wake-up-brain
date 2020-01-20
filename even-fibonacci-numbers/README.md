@@ -13,8 +13,8 @@ By considering the terms in the Fibonacci sequence that do not exceed the n th t
 Go through the setup instructions for Javascript to install the necessary
 dependencies:
 
->[NodeJS](https://nodejs.org/en/download/)
->[JestJS](https://jestjs.io/docs/en/getting-started.html)
+-[NodeJS](https://nodejs.org/en/download/)
+-[JestJS](https://jestjs.io/docs/en/getting-started.html)
 
 ## Requirements
 
