@@ -1,12 +1,12 @@
 {
-  "name": "kata-resistor-color",
+  "name": "even-fibonacci-numbers-challenge",
   "version": "1.0.0",
   "description": "learning logic programming",
-  "author": "Katrina Owen",
+  "author": "freeCodeCamp",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/exercism/javascript"
+    "url": "https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-2-even-fibonacci-numbers"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.5",
